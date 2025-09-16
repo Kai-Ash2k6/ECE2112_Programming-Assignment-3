@@ -8,7 +8,8 @@
     1. Problem 1 – Load and inspect `cars.csv` using pandas (display table, head, tail).
     2. Problem 2 – Data selection and filtering with pandas (iloc, loc, conditional selection).
 ### ---------------- Notes ----------------
-    
+[Download cars.csv](./data/cars.csv)
+
     - I debugged my code multiple times and used module notes, YouTube tutorials, and 
       other online references to understand concepts I was not confident with.
     - This repository is part of my journey in learning basic Python and pandas for data handling.
