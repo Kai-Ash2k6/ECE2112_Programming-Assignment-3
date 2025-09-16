@@ -1,9 +1,11 @@
 # ECE2112_Programming-Assignment-3 
 
- ###  Advance Computer Programming - S.Y. '24-'25  
- ### Name: `K. A. Gas*ng-n` || Section: `2 ECE - C`
+<br>Advance Computer Programming - S.Y. '24-'25  
+<br> Name: `K. A. Gas*ng-n` || Section: `2 ECE - C`
 
 ### ----- Contents of this Assignment ----- 
+Download this `csv` file first: 
+<br><br>[cars.csv](https://github.com/Kai-Ash2k6/ECE2112_Programming-Assignment-3/blob/data/cars.csv)
     
     1. Problem 1 – Load and inspect `cars.csv` using pandas (display table, head, tail).
     2. Problem 2 – Data selection and filtering with pandas (iloc, loc, conditional selection).
