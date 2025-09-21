@@ -166,9 +166,4 @@ pip install pandas
 
 # ---------------- End of Assignment #3 README ----------------
 
-```
 
-Want me to:
-- save this as `README.md` and give you the file content ready to download, or  
-- combine Problems 1 & 2 into a single script file with clean prints and `.to_string()` for better console output?
-```
